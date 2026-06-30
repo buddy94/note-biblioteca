@@ -280,7 +280,7 @@ async function init() {
 async function loadSingleNote(filename, autoPrint) {
   currentNoteFile = filename;
   const note = manifest?.notes.find(n => n.filename === filename);
-  const title = note?.title || filename.replace('.txt', '');
+  const title = note?.title || filename.replace('.md', '');
   
   document.getElementById('note-title').textContent = title;
   document.title = title;
@@ -329,7 +329,7 @@ async function loadMultipleNotes(files, title, autoPrint) {
   let html = '';
   for (const filename of files) {
     const note = manifest?.notes.find(n => n.filename === filename);
-    const noteTitle = note?.title || filename.replace('.txt', '');
+    const noteTitle = note?.title || filename.replace('.md', '');
     
     try {
       const resp = await fetch('notes/' + filename);

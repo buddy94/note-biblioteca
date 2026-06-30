@@ -33,144 +33,164 @@
   },
   "notes": [
     {
-      "filename": "enciclica-magnifica-humanitas-papa-leone-xiv-e-lia.txt",
+      "filename": "enciclica-magnifica-humanitas-papa-leone-xiv-e-lia.md",
       "title": "Enciclica Magnifica humanitas - Papa Leone XIV e l'IA",
       "category": "ai-etica",
       "category_name": "AI & Etica",
-      "parent_category": "AI & Società"
+      "parent_category": "AI & Società",
+      "slug": "enciclica-magnifica-humanitas-papa-leone-xiv-e-lia"
     },
     {
-      "filename": "ia-e-guerra-autonoma.txt",
+      "filename": "ia-e-guerra-autonoma.md",
       "title": "IA e guerra autonoma",
       "category": "ai-etica",
       "category_name": "AI & Etica",
-      "parent_category": "AI & Società"
+      "parent_category": "AI & Società",
+      "slug": "ia-e-guerra-autonoma"
     },
     {
-      "filename": "transumanesimo-e-critica-cristiana-del-postumano.txt",
+      "filename": "transumanesimo-e-critica-cristiana-del-postumano.md",
       "title": "Transumanesimo e critica cristiana del postumano",
       "category": "ai-etica",
       "category_name": "AI & Etica",
-      "parent_category": "AI & Società"
+      "parent_category": "AI & Società",
+      "slug": "transumanesimo-e-critica-cristiana-del-postumano"
     },
     {
-      "filename": "il-paradosso-della-nave-di-teseo.txt",
+      "filename": "il-paradosso-della-nave-di-teseo.md",
       "title": "Il Paradosso della Nave di Teseo",
       "category": "idee-riflessioni",
       "category_name": "Idee & Riflessioni",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "il-paradosso-della-nave-di-teseo"
     },
     {
-      "filename": "scuola-e-comunita-villaggio.txt",
+      "filename": "scuola-e-comunita-villaggio.md",
       "title": "Scuola e Comunità Villaggio",
       "category": "idee-riflessioni",
       "category_name": "Idee & Riflessioni",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "scuola-e-comunita-villaggio"
     },
     {
-      "filename": "genz-fede-e-tradizione.txt",
+      "filename": "genz-fede-e-tradizione.md",
       "title": "GenZ, Fede e Tradizione",
       "category": "spiritualita-tradizione",
       "category_name": "Spiritualità & Tradizione",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "genz-fede-e-tradizione"
     },
     {
-      "filename": "larchitettura-dellincontro.txt",
+      "filename": "larchitettura-dellincontro.md",
       "title": "L'Architettura dell'Incontro",
       "category": "spiritualita-tradizione",
       "category_name": "Spiritualità & Tradizione",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "larchitettura-dellincontro"
     },
     {
-      "filename": "gli-inklings-fede-e-mito.txt",
+      "filename": "gli-inklings-fede-e-mito.md",
       "title": "Gli Inklings - Fede e Mito",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "gli-inklings-fede-e-mito"
     },
     {
-      "filename": "tolkien-biografia-spirituale-e-fede-cattolica.txt",
+      "filename": "tolkien-biografia-spirituale-e-fede-cattolica.md",
       "title": "Tolkien - Biografia spirituale e fede cattolica",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-biografia-spirituale-e-fede-cattolica"
     },
     {
-      "filename": "tolkien-e-g-k-chesterton.txt",
+      "filename": "tolkien-e-g-k-chesterton.md",
       "title": "Tolkien e G.K. Chesterton",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-e-g-k-chesterton"
     },
     {
-      "filename": "enciclica-magnifica-humanitas-e-tolkien.txt",
+      "filename": "enciclica-magnifica-humanitas-e-tolkien.md",
       "title": "Enciclica Magnifica Humanitas e Tolkien",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "enciclica-magnifica-humanitas-e-tolkien"
     },
     {
-      "filename": "tolkien-il-signore-degli-anelli-come-opera-cattolica.txt",
+      "filename": "tolkien-il-signore-degli-anelli-come-opera-cattolica.md",
       "title": "Tolkien - Il Signore degli Anelli come opera cattolica",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-il-signore-degli-anelli-come-opera-cattolica"
     },
     {
-      "filename": "tolkien-sofferenza-e-provvidenza.txt",
+      "filename": "tolkien-sofferenza-e-provvidenza.md",
       "title": "Tolkien - Sofferenza e Provvidenza",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-sofferenza-e-provvidenza"
     },
     {
-      "filename": "tolkien-aragorn-re-guaritore-e-leadership-serva.txt",
+      "filename": "tolkien-aragorn-re-guaritore-e-leadership-serva.md",
       "title": "Tolkien - Aragorn, Re Guaritore e Leadership Serva",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-aragorn-re-guaritore-e-leadership-serva"
     },
     {
-      "filename": "tolkien-galadriel-e-il-magnificat.txt",
+      "filename": "tolkien-galadriel-e-il-magnificat.md",
       "title": "Tolkien - Galadriel e il Magnificat",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-galadriel-e-il-magnificat"
     },
     {
-      "filename": "tolkien-samwise-gamgee-e-la-fedelta-dellumile.txt",
+      "filename": "tolkien-samwise-gamgee-e-la-fedelta-dellumile.md",
       "title": "Tolkien - Samwise Gamgee e la fedeltà dell'umile",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-samwise-gamgee-e-la-fedelta-dellumile"
     },
     {
-      "filename": "tolkien-the-oden-e-la-speranza-che-resiste.txt",
+      "filename": "tolkien-the-oden-e-la-speranza-che-resiste.md",
       "title": "Tolkien - Théoden e la speranza che resiste",
       "category": "tolkien",
       "category_name": "Tolkien",
-      "parent_category": "Fede & Cultura"
+      "parent_category": "Fede & Cultura",
+      "slug": "tolkien-the-oden-e-la-speranza-che-resiste"
     },
     {
-      "filename": "genitorialita-competizione-tra-fratelli-e-autorevolezza.txt",
+      "filename": "genitorialita-competizione-tra-fratelli-e-autorevolezza.md",
       "title": "Genitorialità - Competizione tra Fratelli e Autorevolezza",
       "category": "genitorialita",
       "category_name": "Genitorialità",
-      "parent_category": "Famiglia & Figli"
+      "parent_category": "Famiglia & Figli",
+      "slug": "genitorialita-competizione-tra-fratelli-e-autorevolezza"
     },
     {
-      "filename": "il-ruolo-del-padre-nello-sviluppo-emotivo.txt",
+      "filename": "il-ruolo-del-padre-nello-sviluppo-emotivo.md",
       "title": "Il ruolo del padre nello sviluppo emotivo",
       "category": "genitorialita",
       "category_name": "Genitorialità",
-      "parent_category": "Famiglia & Figli"
+      "parent_category": "Famiglia & Figli",
+      "slug": "il-ruolo-del-padre-nello-sviluppo-emotivo"
     },
     {
-      "filename": "minacce-condizionali-e-coerenza-genitoriale.txt",
+      "filename": "minacce-condizionali-e-coerenza-genitoriale.md",
       "title": "Minacce Condizionali e Coerenza Genitoriale",
       "category": "genitorialita",
       "category_name": "Genitorialità",
-      "parent_category": "Famiglia & Figli"
+      "parent_category": "Famiglia & Figli",
+      "slug": "minacce-condizionali-e-coerenza-genitoriale"
     }
   ]
 }
