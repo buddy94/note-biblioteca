@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
-<title>📖 Nota</title>
+<title>Nota</title>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
 /* ===== RESET & BASE ===== */
@@ -283,7 +283,7 @@ async function loadSingleNote(filename, autoPrint) {
   const title = note?.title || filename.replace('.md', '');
   
   document.getElementById('note-title').textContent = title;
-  document.title = '📖 ' + title;
+  document.title = title;
   
   // Category badge
   if (note && manifest.categories[note.category]) {
@@ -320,7 +320,7 @@ async function loadSingleNote(filename, autoPrint) {
 
 async function loadMultipleNotes(files, title, autoPrint) {
   document.getElementById('note-title').textContent = title || 'Note multiple';
-  document.title = '📚 ' + (title || 'Note multiple');
+  document.title = (title || 'Note multiple');
   
   document.getElementById('loading').style.display = 'none';
   const content = document.getElementById('note-content');
