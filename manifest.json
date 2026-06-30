@@ -40,22 +40,8 @@
       "parent_category": "AI & Società"
     },
     {
-      "filename": "ia-e-democrazia-blueprint-mit-technology-review.md",
-      "title": "IA e Democrazia - Blueprint MIT Technology Review",
-      "category": "ai-etica",
-      "category_name": "AI & Etica",
-      "parent_category": "AI & Società"
-    },
-    {
       "filename": "ia-e-guerra-autonoma.md",
       "title": "IA e guerra autonoma",
-      "category": "ai-etica",
-      "category_name": "AI & Etica",
-      "parent_category": "AI & Società"
-    },
-    {
-      "filename": "papa-francesco-e-lalgoretica.md",
-      "title": "Papa Francesco e l'algoretica",
       "category": "ai-etica",
       "category_name": "AI & Etica",
       "parent_category": "AI & Società"
@@ -70,20 +56,6 @@
     {
       "filename": "il-paradosso-della-nave-di-teseo.md",
       "title": "Il Paradosso della Nave di Teseo",
-      "category": "idee-riflessioni",
-      "category_name": "Idee & Riflessioni",
-      "parent_category": "Fede & Cultura"
-    },
-    {
-      "filename": "leffetto-dunning-kruger.md",
-      "title": "L'Effetto Dunning-Kruger",
-      "category": "idee-riflessioni",
-      "category_name": "Idee & Riflessioni",
-      "parent_category": "Fede & Cultura"
-    },
-    {
-      "filename": "mappe-cuore-e-percorso.md",
-      "title": "Mappe Cuore e Percorso",
       "category": "idee-riflessioni",
       "category_name": "Idee & Riflessioni",
       "parent_category": "Fede & Cultura"
