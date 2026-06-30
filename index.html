@@ -411,7 +411,7 @@ let favorites = JSON.parse(localStorage.getItem('ghpages_favorites') || '[]');
 /* ===== LOAD ===== */
 async function init() {
   try {
-    const resp = await fetch('manifest.json', {cache: 'no-cache'});
+    const resp = await fetch('manifest.json');
     manifest = await resp.json();
   } catch(e) {
     console.error('Failed to load manifest:', e);

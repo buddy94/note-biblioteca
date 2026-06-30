@@ -252,7 +252,7 @@ let favorites = JSON.parse(localStorage.getItem('ghpages_favorites') || '[]');
 async function init() {
   // Load manifest
   try {
-    const resp = await fetch('manifest.json', {cache: 'no-cache'});
+    const resp = await fetch('manifest.json');
     manifest = await resp.json();
   } catch(e) {
     showError('Impossibile caricare il manifest');
@@ -300,7 +300,7 @@ async function loadSingleNote(filename, autoPrint) {
   
   // Load markdown
   try {
-    const resp = await fetch('notes/' + filename, {cache: 'no-cache'});
+    const resp = await fetch('notes/' + filename);
     if (!resp.ok) throw new Error('File not found');
     const md = await resp.text();
     
@@ -332,7 +332,7 @@ async function loadMultipleNotes(files, title, autoPrint) {
     const noteTitle = note?.title || filename.replace('.md', '');
     
     try {
-      const resp = await fetch('notes/' + filename, {cache: 'no-cache'});
+      const resp = await fetch('notes/' + filename);
       if (!resp.ok) continue;
       const md = await resp.text();
       
