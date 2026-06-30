@@ -2,7 +2,7 @@
 """
 Manifest Generator for GitHub Pages Note Library
 =================================================
-Scans gh-pages/notes/ for .md files and regenerates manifest.json.
+Scans gh-pages/notes/ for .txt files and regenerates manifest.json.
 Run this after adding/removing notes.
 
 Usage:
@@ -105,7 +105,7 @@ def auto_categorize(note_path, title, content_preview=None):
 def scan_notes():
     """Scan notes directory and return note definitions"""
     notes = []
-    for md_file in sorted(NOTES_DIR.glob("*.md")):
+    for md_file in sorted(NOTES_DIR.glob("*.txt")):
         title = extract_title(md_file)
         
         # Read first 500 chars for auto-categorization
@@ -145,7 +145,7 @@ def interactive_add(note_file):
     # Copy to notes dir
     import shutil
     safe_name = re.sub(r'[^a-zA-Z0-9\-]', '-', note_path.stem.lower())
-    safe_name = re.sub(r'-+', '-', safe_name).strip('-') + '.md'
+    safe_name = re.sub(r'-+', '-', safe_name).strip('-') + '.txt'
     dst = NOTES_DIR / safe_name
     shutil.copy2(note_path, dst)
     print(f"📄 Copied: {note_path.name} → {safe_name}")
@@ -267,7 +267,7 @@ def regenerate(dry_run=False):
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--add":
         if len(sys.argv) < 3:
-            print("Usage: python3 gen_manifest.py --add <file.md>")
+            print("Usage: python3 gen_manifest.py --add <file.txt>")
             sys.exit(1)
         interactive_add(sys.argv[2])
     elif len(sys.argv) > 1 and sys.argv[1] == "--dry-run":
