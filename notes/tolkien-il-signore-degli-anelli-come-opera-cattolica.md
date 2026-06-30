@@ -1,16 +1,8 @@
----
-tags: [tolkien, teologia, cattolicesimo, fede, letteratura, provvidenza, eucatastrofe]
-type: conoscenza
-created: 2026-05-29
-updated: 2026-06-20
-source: https://www.osvnews.com/why-tolkiens-the-lord-of-the-rings-is-catholic-journey/
----
-
 # Il Signore degli Anelli come opera cattolica
 
 > **In breve:** *Il Signore degli Anelli* è, nelle parole di Tolkien stesso, «fondamentalmente religioso e cattolico» — eppure non ha né chiese né preghiere né dèi espliciti. La fede vi è *assorbita* nella storia e nel simbolismo, non predicata. Nel 2026 Papa Leone XIV cita Gandalf nella sua prima enciclica; il cerchio si chiude.
 
-> [!quote] 🎯 **Frase-chiave:** «Non sta a noi dominare tutte le maree del mondo, ma fare ciò che è in noi per il soccorso degli anni in cui siamo posti.» — Gandalf, citato da Leone XIV, *Magnifica Humanitas* par. 213
+> 🎯 **Frase-chiave:** «Non sta a noi dominare tutte le maree del mondo, ma fare ciò che è in noi per il soccorso degli anni in cui siamo posti.» — Gandalf, citato da Leone XIV, *Magnifica Humanitas* par. 213
 
 ---
 
@@ -51,7 +43,7 @@ Il fatto che Leone XIV, nel 2026, citi Gandalf in un'enciclica sull'intelligenza
 
 ---
 
-> [!note]- 📖 Approfondimento — Eucatastrofe, coraggio nordico, e la genesi della Letter 142
+> 📖 Approfondimento — Eucatastrofe, coraggio nordico, e la genesi della Letter 142
 
 > ### Eucatastrofe: come la fede diventa struttura narrativa
 > Tolkien conia il termine nell'epilogo di *On Fairy-Stories* (1947): «eucatastrofe» = *eu* (buono) + *katastrophé* (svolta), la svolta gioiosa improvvisa che nega — senza annullarlo — il trionfo del male. Non è lieto fine sentimentale: è la promessa che il male non ha l'ultima parola.
@@ -93,19 +85,19 @@ Il fatto che Leone XIV, nel 2026, citi Gandalf in un'enciclica sull'intelligenza
 - [Northern courage in Middle-earth — Wikipedia](https://en.wikipedia.org/wiki/Northern_courage_in_Middle-earth) — la radice pagano-nordica (Ragnarok, Beowulf) del coraggio in Tolkien: base del dibattito cristiano vs nordico.
 - [Letter 246 (a Eileen Elgar) — Tolkien Gateway](https://tolkiengateway.net/wiki/Letter_246) — Tolkien sul «fallimento» di Frodo, la pietà verso Gollum, la grazia e la Provvidenza.
 
-> [!warning] Verificabilità
+> Verificabilità
 > La frase esatta aggiunta da Leone XIV subito dopo la citazione di Gandalf (riportata come «the sum total of small and steadfast acts of fidelity that serve as a bulwark against dehumanization») è coerente tra fonti secondarie (America Magazine, NCR, OSV) ma non è stata verificata sul testo ufficiale latino/italiano su vatican.va. Citarla tra virgolette richiederebbe conferma diretta sul documento.
 
 ---
 
 ## 🪢 Note Correlate
 
-- [[Tolkien - Biografia spirituale e fede cattolica]]
-- [[Tolkien e G.K. Chesterton]]
-- [[Gli Inklings - Fede e Mito]]
-- [[Tolkien - Galadriel e il Magnificat]]
-- [[Tolkien - Théoden e la speranza che resiste]]
-- [[Tolkien - Aragorn, Re Guaritore e Leadership Serva]]
-- [[Tolkien - Samwise Gamgee e la fedeltà dell'umile]]
-- [[Tolkien - Sofferenza e Provvidenza]]
-- [[Enciclica Magnifica Humanitas e Tolkien]]
+- Tolkien - Biografia spirituale e fede cattolica
+- Tolkien e G.K. Chesterton
+- Gli Inklings - Fede e Mito
+- Tolkien - Galadriel e il Magnificat
+- Tolkien - Théoden e la speranza che resiste
+- Tolkien - Aragorn, Re Guaritore e Leadership Serva
+- Tolkien - Samwise Gamgee e la fedeltà dell'umile
+- Tolkien - Sofferenza e Provvidenza
+- Enciclica Magnifica Humanitas e Tolkien

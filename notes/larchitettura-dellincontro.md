@@ -1,16 +1,8 @@
----
-tags: [fede, liturgia, rito, spiritualita, chiesa-cattolica, vaticano-ii, storia-chiesa]
-type: conoscenza
-created: 2026-06-04
-updated: 2026-06-20
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_it.html
----
-
 # L'Architettura dell'Incontro: Perché i Riti e la Liturgia?
 
 > **In breve:** La liturgia non è ripetizione vuota ma struttura dell'incontro con Dio — ritmo dell'anima, casa spirituale, partecipazione reale al culto celeste. Coinvolge corpo, sensi e comunità, e risponde all'obiezione «mi annoio a Messa» non con intrattenimento, ma con profondità.
 
-> [!quote] 🎯 **«Un cristianesimo senza liturgia, io oserei dire che forse è un cristianesimo senza Cristo.»** — Papa Francesco, Udienza Generale, 3 febbraio 2021
+> 🎯 **«Un cristianesimo senza liturgia, io oserei dire che forse è un cristianesimo senza Cristo.»** — Papa Francesco, Udienza Generale, 3 febbraio 2021
 
 ---
 
@@ -50,7 +42,7 @@ Il rito liturgico è uno dei nodi dove si incrociano antropologia, teologia e so
 
 ---
 
-> [!note]- Approfondimento — Maestri, storia, neuroscienze e dibattito liturgico
+> Approfondimento — Maestri, storia, neuroscienze e dibattito liturgico
 
 > ### Il Movimento Liturgico e i suoi padri
 > Il rinnovamento che ha riportato la liturgia al centro nasce tra XIX e XX secolo: **Prosper Guéranger** (Solesmes, 1805-1875) restaura la tradizione monastica e l'Anno Liturgico; **Lambert Beauduin** (1873-1960) definisce la liturgia "patrimonio del popolo cristiano", portandola dai monasteri alla vita parrocchiale; **Romano Guardini** (1885-1968) insegna in *Lo spirito della liturgia* che celebrare è un "gioco sacro" davanti a Dio — senza scopo, pieno di senso. Questi tre preparano il terreno al Vaticano II.
@@ -78,7 +70,7 @@ Il rito liturgico è uno dei nodi dove si incrociano antropologia, teologia e so
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > - **Citazioni Ratzinger** ("La liturgia non è un'esibizione..." e il paragone della "respirazione dell'anima") sono coerenti con *Introduzione allo spirito della liturgia* (Edizioni San Paolo, 2001) ma non verificate su capitolo/pagina esatta nella ricerca: da confermare sull'edizione cartacea prima di citarle testualmente.
 > - **Citazione Guardini** ("Il credente deve rendersi consapevole...") è attribuita a *Lo spirito della liturgia* (Morcelliana) ma non verificata su edizione/pagina.
 > - **Ambrogio, De Mysteriis** ("Apri le orecchie..."): la resa italiana esatta non è stata verificata punto per punto — il testo latino è reale ma la traduzione italiana va controllata sull'edizione critica Città Nuova.
@@ -117,7 +109,7 @@ Il rito liturgico è uno dei nodi dove si incrociano antropologia, teologia e so
 
 ## 🪢 Note Correlate
 
-- [[GenZ, Fede e Tradizione]]
-- [[Tolkien - Galadriel e il Magnificat]]
-- [[Enciclica Magnifica Humanitas e Tolkien]]
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
+- GenZ, Fede e Tradizione
+- Tolkien - Galadriel e il Magnificat
+- Enciclica Magnifica Humanitas e Tolkien
+- Tolkien - Il Signore degli Anelli come opera cattolica

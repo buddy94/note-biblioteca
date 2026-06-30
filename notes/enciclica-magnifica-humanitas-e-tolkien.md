@@ -1,16 +1,8 @@
----
-tags: [tolkien, enciclica, intelligenza-artificiale, dottrina-sociale, chiesa, peter-thiel, silicon-valley, etica-tecnologia]
-type: conoscenza
-created: 2026-06-19
-updated: 2026-06-20
-source: https://www.churchpop.com/pope-leo-put-gandalf-in-his-first-encyclical-a-tolkien-quote-in-magnifica-humanitas/
----
-
 # Tolkien nell'Enciclica *Magnifica Humanitas* — Gandalf contro la logica del dominio
 
 > **In breve:** Al paragrafo 213 di *Magnifica Humanitas* (Leone XIV, maggio 2026), Gandalf entra per la prima volta in un'enciclica papale — il grado più alto del magistero ordinario. Non come ornamento letterario: il passo de *Il Ritorno del Re* risponde direttamente alla tentazione di abdicare davanti a una tecnologia ingovernabile. Nel contesto della Silicon Valley tolkieniana di Peter Thiel, il gesto acquista una seconda lettura: lo stesso autore, lo stesso immaginario, usato per dire l'esatto contrario.
 
-> [!quote] 🎯 *«It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.»*
+> 🎯 *«It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.»*
 > — Gandalf, *The Return of the King*, Book V, cap. IX ("The Last Debate"), citato al par. 213 — footnote 187 dell'enciclica (ed. New York 1965, p. 190)
 
 ---
@@ -54,25 +46,25 @@ Che il Papa abbia voluto rispondere a questa appropriazione resta un'interpretaz
 
 ---
 
-> [!note]- Approfondimento: temi, contesti, mappa
->
+> Approfondimento: temi, contesti, mappa
+
 > ### La citazione esatta e il suo contesto narrativo
 > Il passo di Gandalf proviene da *The Return of the King*, Book V, Chapter IX ("The Last Debate" / "L'ultimo dibattito"), pronunciato dopo la Battaglia dei Campi del Pelennor. Il footnote 187 dell'enciclica cita l'edizione inglese New York 1965, p. 190 — non un'edizione italiana Bompiani. La resa italiana che circola in rete è una traduzione di servizio:
->
+
 > *«Non tocca a noi dominare tutte le maree del mondo; il nostro compito è di fare il possibile per la salvezza degli anni nei quali viviamo, sradicando il male dai campi che conosciamo, al fine di lasciare a coloro che verranno dopo terra pulita da coltivare.»*
->
+
 > Leone XIV lo usa al par. 213 in risposta alla tentazione di considerare l'IA ingovernabile. La sottosezione si chiama *"We can all do our part"*.
->
+
 > ### La "Macchina" tolkieniana: testo esatto
 > Lettera 131 a Milton Waldman (1951): *«By the Machine I intend all use of external plans or devices (apparatus) instead of development of the inherent inner powers or talents — or even the use of these talents with the corrupted motive of dominating: bulldozing the real world, or coercing other wills.»*
 > Non si tratta di rifiuto della tecnica in senso assoluto: Tolkien distingue tra tecnica al servizio della crescita e tecnica come sostituto o strumento di dominio. Il secondo caso — e solo il secondo — è ciò che chiama Macchina.
->
+
 > ### Applicabilità, non allegoria
 > Tolkien scriveva nella prefazione alla seconda edizione del *Signore degli Anelli*: «ho una cordiale antipatia per l'allegoria in tutte le sue manifestazioni». Preferiva l'"applicabilità", che lascia libero il lettore di trovare risonanze nella propria esperienza senza che l'autore le prescriva. Questo significa che sia la lettura "IA=Anello" del Papa sia quella "mito del potere" di Thiel sono applicazioni legittime del testo — il che rende ancora più acuta la domanda su chi stia leggendo meglio.
->
+
 > ### La rete tolkieniana di Thiel: mappa completa
 > Documentata da *Disconnect* e da altre fonti (Quartz, TipRanks):
->
+
 > | Nome | Riferimento tolkieniano | Cosa fa |
 > |---|---|---|
 > | **Palantir** | *Palantíri*, le Pietre Veggenti | Sorveglianza e analisi dati per governi ed eserciti |
@@ -83,23 +75,23 @@ Che il Papa abbia voluto rispondere a questa appropriazione resta un'interpretaz
 > | **Narya Capital** | L'Anello di Fuoco di Gandalf | VC di J.D. Vance, 100M$ da Thiel (2020) |
 > | **Anduril** | La spada di Aragorn, Fiamma dell'Ovest | Startup di droni militari (Palmer Luckey, 2017) |
 > | **Erebor** | La Montagna Solitaria dei Nani | Banca digitale (Luckey/Lonsdale, backer Thiel; charter OCC, sede Columbus OH) |
->
+
 > Founders Fund è soprannominato internamente *"the precious"*. Thiel dichiara di aver letto LOTR dieci volte.
->
+
 > L'ironia che molti commentatori sottolineano: Tolkien era un cattolico tradizionalista profondamente anti-totalitario. Nel suo racconto l'Anello **non viene usato contro Sauron — viene distrutto**, da due hobbit che nessuno considera. Thiel usa il nome delle Pietre Veggenti — oggetti che nell'opera offrono potere ma corrompono e mostrano verità parziali — per un sistema di sorveglianza globale.
->
+
 > ### La posizione apocalittica di Thiel
 > In quattro conferenze private (Commonwealth Club, San Francisco, 16/23/30 settembre e 6 ottobre 2025) Thiel ha sostenuto che la regolamentazione dell'IA possa essere il segno dell'Anticristo, citando 1 Tessalonicesi 5,3 («pace e sicurezza»), Daniele 12,4 e il concetto di *katechon*. Ciò che Thiel legge come tirannia (il "baluardo" regolatorio), il Papa definisce responsabilità cristiana. Il contrasto con l'enciclica è documentato anche da organizzazioni cattoliche (CBPAI) che segnalano il conflitto tra la tesi di Thiel e 60 anni di dottrina sociale.
->
+
 > ### Lo "jujitsu culturale": interpretazione plausibile, non fatto
 > La tesi che la citazione di Gandalf sia una risposta indiretta a Thiel è stata elaborata da John Grosso (*Where Peter Is*). La sua conclusione: il collegamento è «difficile da confutare» ma resta speculazione — il Papa non nomina mai Thiel, e il documento regge come argomentazione teologica indipendente. *America Magazine* e il *National Catholic Reporter* analizzano il par. 213 senza alcun riferimento a Thiel, leggendolo come tema di speranza contro Babele. Entrambe le letture sono documentate e legittime.
->
+
 > ### Tolkien tra gli altri riferimenti dell'enciclica
 > Il documento cita Sant'Agostino, Hannah Arendt, Picasso (*Guernica*), Martin Luther King Jr., Nelson Mandela, Viktor Frankl, Beethoven (*IX Sinfonia*) e Tolkien. Aleteia conta 224 riferimenti bibliografici totali (cifra diversa dai 245 paragrafi: misurano cose diverse). Il passo di Gandalf è una piccola parte di 42.300 parole; il fatto che sia diventato l'elemento più discusso online è esso stesso un dato culturale.
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > - **Attribuzione a "Leo Carruthers"**: la versione precedente attribuiva a Carruthers (vero tolkienista) un commento ironico sul «mezzo paragrafo su 258». Nessuna fonte collega Carruthers a questo commento sull'enciclica; il numero 258 era errato (i paragrafi sono 245). Attribuzione rimossa; non reintrodurre.
 > - **Traduzione italiana del par. 213**: l'enciclica cita l'edizione inglese (New York 1965, p. 190). La resa italiana che circola è una traduzione non ufficiale. Non virgolettarla come testo dell'enciclica.
 > - **La frase "La civiltà dell'amore non nascerà da un gesto singolo…"** presente nella versione originale della nota: coerente col cap. 5, ma il testo letterale non è stato recuperato dal documento ufficiale. Non è citazione diretta e non è stata reinserita.
@@ -131,9 +123,9 @@ Che il Papa abbia voluto rispondere a questa appropriazione resta un'interpretaz
 
 ## 🪢 Note Correlate
 
-- [[Enciclica Magnifica humanitas - Papa Leone XIV e l'IA]]
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
-- [[Tolkien - Aragorn, Re Guaritore e Leadership Serva]]
-- [[Tolkien - Sofferenza e Provvidenza]]
-- [[Tolkien - Samwise Gamgee e la fedeltà dell'umile]]
-- [[Tolkien - Galadriel e il Magnificat]]
+- Enciclica Magnifica humanitas - Papa Leone XIV e l'IA
+- Tolkien - Il Signore degli Anelli come opera cattolica
+- Tolkien - Aragorn, Re Guaritore e Leadership Serva
+- Tolkien - Sofferenza e Provvidenza
+- Tolkien - Samwise Gamgee e la fedeltà dell'umile
+- Tolkien - Galadriel e il Magnificat

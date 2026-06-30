@@ -1,16 +1,8 @@
----
-tags: [fede, genz, tradizione, liturgia, sociologia-religione, secolarizzazione]
-type: conoscenza
-created: 2026-06-04
-updated: 2026-06-19
-source: https://www.barna.com/research/open-generation-perceptions/
----
-
 # La Gen Z e la Fede — Apertura, Tradizione e Solitudine
 
 > **In breve:** La Gen Z è la generazione più sola della storia recente, eppure mostra un'apertura a Gesù sorprendente per un'epoca secolare. Molti giovani riscoprono la liturgia tradizionale (latino, gregoriano) non come nostalgia, ma come gesto oppositivo: trascendenza, stabilità e bellezza dove il mercato offre solo prodotti. Non è un "revival" generalizzato — è una nicchia intensa che la sociologia seria invita a non sovraleggere.
 
-> [!quote] 🎯 **Da ricordare:** Amano Gesù e diffidano dei cristiani. Il problema non è il messaggio, è la distanza tra il messaggio e chi lo incarna.
+> 🎯 **Da ricordare:** Amano Gesù e diffidano dei cristiani. Il problema non è il messaggio, è la distanza tra il messaggio e chi lo incarna.
 
 ---
 
@@ -50,7 +42,7 @@ Il ritorno alla tradizione come controcultura ha qualcosa di vero per chiunque s
 
 ---
 
-> [!note]- Approfondimento — I dati Barna, *Traditionis custodes*, "orthobros" e la voce scettica
+> Approfondimento — I dati Barna, *Traditionis custodes*, "orthobros" e la voce scettica
 
 > ### Lo studio *The Open Generation* — metodologia e numeri esatti
 > Barna ha intervistato 24.557 adolescenti tra 13 e 17 anni in 26 paesi e 17 lingue, tra luglio e agosto 2021, con 313 risposte aggiuntive a febbraio 2022. È il più grande studio in 38 anni di storia di Barna. I dati ufficiali sulla percezione di Gesù sono: **49% lo descrive "amorevole"**, **46% che "offre speranza"**, **43% che "si prende cura delle persone"**. I numeri "71% opinione positiva di Gesù" e "57% del Cristianesimo" — citati nella versione precedente di questa nota — non compaiono nelle pagine ufficiali Barna consultate e potrebbero derivare da rielaborazioni di terzi; non vanno usati come dati Barna.
@@ -98,7 +90,7 @@ Il ritorno alla tradizione come controcultura ha qualcosa di vero per chiunque s
 - [New York Times: Rise of Orthodox Christians Among Young Americans — GreekReporter](https://greekreporter.com/2025/11/20/new-york-times-highlights-rise-orthodox-christians-young-americans/) — il fenomeno "orthobros": conversioni di giovani uomini all'Ortodossia.
 - [*Nonverts: The Making of Ex-Christian America* — Oxford University Press](https://global.oup.com/academic/product/nonverts-9780197587447) — Bullivant: la voce sociologica critica, il trend strutturale di abbandono come contrappeso al racconto del revival.
 
-> [!warning] Verificabilità
+> Verificabilità
 > Diversi dati della versione precedente di questa nota non erano confermati dalle fonti ufficiali:
 > - «71% opinione positiva di Gesù» e «57% del Cristianesimo» (Barna): non trovati sulle pagine ufficiali. Sostituiti con i dati verificati (49/46/43% per attributi).
 > - «74% aperto a spiritualità» (globale Barna): non confermato; valore vicino verificabile è USA-specifico (77% motivati a conoscere Gesù).
@@ -109,5 +101,5 @@ Il ritorno alla tradizione come controcultura ha qualcosa di vero per chiunque s
 
 ## 🪢 Note Correlate
 
-- [[L'Architettura dell'Incontro]]
-- [[Tolkien - Galadriel e il Magnificat]]
+- L'Architettura dell'Incontro
+- Tolkien - Galadriel e il Magnificat

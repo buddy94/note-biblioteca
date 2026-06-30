@@ -1,16 +1,8 @@
----
-tags: [tolkien, galadriel, fede, maria, magnificat, potere, redenzione]
-type: conoscenza
-created: 2026-06-19
-updated: 2026-06-20
-source: https://apilgriminnarnia.com/2020/08/17/the-lady-and-our-lady/
----
-
 # Galadriel e il Magnificat — il potere che sceglie di diminuire
 
 > **In breve:** Quando Galadriel rifiuta l'Anello, pronuncia una delle frasi più dense dell'intera opera di Tolkien: sceglie di «farsi più piccola» invece di diventare regina assoluta. Tolkien stesso (Lettera 320, 1971) riconobbe di dovere molto a Maria nella costruzione del personaggio — non come allegoria, ma come risonanza profonda. Galadriel è però più complicata di un simbolo mariano: fu una ribelle, un'esule, una penitente. È questa tensione a renderla straordinaria.
 
-> [!quote] 🎯 **La frase che conta:**
+> 🎯 **La frase che conta:**
 > «*I pass the test,*» she said. «*I will diminish, and go into the West, and remain Galadriel.*»
 > — *The Fellowship of the Ring*, Libro II, cap. 7 «The Mirror of Galadriel»
 
@@ -54,35 +46,35 @@ La logica mariana del Magnificat non è solo per i grandi: è per chiunque si tr
 
 ---
 
-> [!note]- 📖 Approfondimento — Esilio, Bando e redenzione dei Noldor
->
+> 📖 Approfondimento — Esilio, Bando e redenzione dei Noldor
+
 > ### La ribellione e il Bando dei Valar
 > Galadriel non fu solo presente alla ribellione dei Noldor: ne fu tra i capi. L'uscita da Valinor avvenne contro la volontà dei Valar, e il Bando che seguì le impediva il ritorno. Per secoli questo bando pesò su di lei: era un'esule volontaria, con colpe reali da portare.
->
+
 > La Lettera 320 (1971) è esplicita: Galadriel aveva dapprima «rifiutato orgogliosamente il perdono» (*proudly refused forgiveness or permission to return*) alla fine della Prima Era. Il bando fu revocato come ricompensa per la resistenza alla tentazione finale dell'Anello. Così il «diminuire» non è solo gesto di umiltà: è l'atto che chiude il cerchio di una redenzione lunga ere.
->
+
 > ### La Galadriel incompiuta: penitente vs «unstained»
 > Tolkien non fu mai del tutto soddisfatto del personaggio. Nello *Shibboleth of Fëanor* — un dattiloscritto con note manoscritte, redatto tra il 1968 e il 1973, pubblicato postumo nel 1996 in *The Peoples of Middle-earth* (HoME vol. XII) — la riconcepisce come «*unstained*»: non macchiata da atti malvagi, con orgoglio e forza come tratti del carattere, non come colpe. La nota che rivaluta Galadriel verso questa versione nobile fu tra le ultime cose scritte da Tolkien prima della morte (agosto 1973). Non completò mai la revisione.
->
+
 > Rimangono quindi due Galadriel sovrapposte: la penitente del *Signore degli Anelli* e la figura più nobile del tardo *Shibboleth*. Non è una contraddizione da risolvere: è il segno di un autore che tornava sempre sui suoi personaggi cercando la verità giusta, e non la trovò del tutto.
->
+
 > ### Il parallelo con Giovanni Battista e l'Età degli Uomini
 > Galadriel rappresenta anche il vecchio mondo degli Elfi — una gloria destinata a svanire perché ne sorga una nuova. Come il Battista è il guardiano del passaggio («lui deve crescere, io devo diminuire», Gv 3,30), Galadriel custodisce la Terra di Mezzo finché gli Hobbit e gli Uomini non possono reggersi soli. La sua partenza verso l'Ovest non è sconfitta: è il compimento di una vocazione, il lasciare che la storia vada oltre di lei.
->
+
 > ### Eärendil, Varda e l'immaginario mariano
 > La Fiala di Galadriel contiene la luce di Eärendil — nome tratto dal poema *Crist* di Cynewulf: «*Eala Earendel, engla beorhtast*» («Salve Earendel, il più luminoso degli angeli»), letto dalla tradizione cristiana come stella del mattino/araldo del sole nascente. Tolkien ne fu colpito dalla bellezza fin dalla sua formazione del legendarium.
->
+
 > Il nesso mariano «Stella Maris» è documentato più chiaramente per **Varda/Elbereth** — «Signora delle Stelle», invocata dagli Elfi, la cui eco con l'inno *Ave Maris Stella* fu notata da Stratford Caldecott. Il salto da Eärendil a *Stella Maris* è un'interpretazione dei commentatori, non una dichiarazione esplicita di Tolkien: va presentata come tale.
->
+
 > ### Il contrappunto: chi non dice no
 > Il rifiuto di Galadriel risalta per contrasto. Boromir cede alla logica dell'Anello come strumento di potere per fini giusti. Sauron non lo aveva mai ceduto. Gollum non riuscì a separarsene. Ogni cedimento condivide la stessa radice: l'idea che *io* possa gestire un potere assoluto meglio degli altri. Galadriel è l'unica in scena che conosce esattamente cosa è in gioco — e lascia andare.
->
+
 > ### Risonanza con l'enciclica *Magnifica humanitas* (Leone XIV, 2026)
 > Il par. 213 dell'enciclica cita Tolkien attraverso la frase di Gandalf: «*Non tocca a noi dominare tutte le maree del mondo…*» Il collegamento tra Galadriel, il Magnificat e l'enciclica è **tematico**, non testuale: tutti e tre parlano di umiltà come struttura del potere che redime, non come rassegnazione. L'enciclica non cita esplicitamente il Magnificat in riferimento a Galadriel. Va presentato come risonanza, non come citazione diretta.
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > - **Lettere 320 e 142:** le citazioni sono confermate da fonti secondarie affidabili (tesi Signum/*Pilgrim in Narnia*, Wikipedia, Tolkien Gateway); il verbatim integrale non è stato verificato direttamente sul volume cartaceo (*The Letters of J.R.R. Tolkien*). Verificare sul volume prima di citare in contesti accademici.
 > - **Datazione *Shibboleth of Fëanor*:** le fonti concordano su «post-1968, prima del 1973»; la data precisa della nota su Galadriel «unstained» non è confermata al mese esatto. Il «tra il 1968 e il 1973» è corretto; qualsiasi data più precisa richiede verifica sul volume HoME XII.
 > - **Enciclica *Magnifica humanitas***, par. 213: la nota del vault attribuisce a quel paragrafo la citazione di Gandalf, **non** un riferimento al Magnificat. Il collegamento Galadriel↔Magnificat↔enciclica passa per il *tema condiviso*, non per una citazione esplicita nel testo pontificio.
@@ -114,10 +106,10 @@ La logica mariana del Magnificat non è solo per i grandi: è per chiunque si tr
 
 ## 🪢 Note Correlate
 
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
-- [[Tolkien - Sofferenza e Provvidenza]]
-- [[Tolkien - Aragorn, Re Guaritore e Leadership Serva]]
-- [[Enciclica Magnifica Humanitas e Tolkien]]
-- [[Tolkien - Biografia spirituale e fede cattolica]]
-- [[Tolkien - Samwise Gamgee e la fedeltà dell'umile]]
-- [[Tolkien - Théoden e la speranza che resiste]]
+- Tolkien - Il Signore degli Anelli come opera cattolica
+- Tolkien - Sofferenza e Provvidenza
+- Tolkien - Aragorn, Re Guaritore e Leadership Serva
+- Enciclica Magnifica Humanitas e Tolkien
+- Tolkien - Biografia spirituale e fede cattolica
+- Tolkien - Samwise Gamgee e la fedeltà dell'umile
+- Tolkien - Théoden e la speranza che resiste

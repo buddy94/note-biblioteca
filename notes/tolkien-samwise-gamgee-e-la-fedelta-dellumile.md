@@ -1,16 +1,8 @@
----
-tags: [tolkien, personaggi, fede, umilta, guerra-mondiale, virtù]
-type: conoscenza
-created: 2026-06-19
-updated: 2026-06-20
-source: https://en.wikipedia.org/wiki/Samwise_Gamgee
----
-
 # Samwise Gamgee: La fedeltà dell'umile
 
 > **In breve:** Sam è, per parole esplicite di Tolkien (Lettera 131), «the chief hero» del *Signore degli Anelli*. Non lo salva la forza, ma la sua mancanza di ambizione: il suo desiderio più profondo è un piccolo giardino, non un regno. È questa "piccolezza" — radicata nella vita vera degli attendenti che Tolkien conobbe nelle trincee della Somme — che lo rende immune all'Anello e capace di portare Frodo sul Monte Fato.
 
-> [!quote] 🎯 «The one small garden of a free gardener was all his need and due, not a garden swollen to a realm; his own hands to use, not the hands of others to command.» — J.R.R. Tolkien, *Il Ritorno del Re*, cap. "The Tower of Cirith Ungol"
+> 🎯 «The one small garden of a free gardener was all his need and due, not a garden swollen to a realm; his own hands to use, not the hands of others to command.» — J.R.R. Tolkien, *Il Ritorno del Re*, cap. "The Tower of Cirith Ungol"
 
 ---
 
@@ -51,23 +43,23 @@ Alla fine, Sam è l'unico che porta a casa il frutto visibile della missione: Ro
 
 ---
 
-> [!note]- Approfondimento: le scene chiave nel testo
->
+> Approfondimento: le scene chiave nel testo
+
 > ### 1. La scelta a Cirith Ungol davanti a Frodo creduto morto
 > Cap. *"The Choices of Master Samwise"* (fine di *The Two Towers*). Sam trova Frodo apparentemente morto dopo il morso di Shelob. La decisione di prendere l'Anello e proseguire nasce da logica dolorosa: se Frodo è morto, la missione non può morire con lui. Non è ambizione — è responsabilità che si fa carico del peso dell'altro. Quando scopre che Frodo è vivo (paralizzato dal veleno, non morto), il sollievo è enorme ma la scelta era già stata fatta: Sam ha toccato il peso dell'Anello sul serio, per la prima volta.
->
+
 > ### 2. La visione di "Samwise il Forte" — rifiuto della tentazione
 > Cap. *"The Tower of Cirith Ungol"* (inizio di *The Return of the King*). Mentre porta l'Anello, Sam vede sé stesso con una spada fiammeggiante ed eserciti al suo comando, e Gorgoroth mutato in un immenso giardino. La tentazione è confezionata su misura: non il potere puro, ma *il potere nel linguaggio di Sam*. Tolkien gli fa dire no con la frase più precisa della scena: «The one small garden of a free gardener was all his need and due, not a garden swollen to a realm; his own hands to use, not the hands of others to command.» L'umiltà qui non è passività morale ma discernimento di ciò che è realmente proprio.
->
+
 > ### 3. Il fallimento verso Gollum sulle Scale di Cirith Ungol
 > Scena in *The Two Towers*, precedente alla scelta. Sam si sveglia e trova Gollum chino su Frodo addormentato — un gesto che, nel contesto, poteva essere quasi di tenerezza, Sméagol sul punto di cedere. Sam lo accusa di "sneaking". Tolkien nella Lettera 246 lo commenta esplicitamente: Sam «blighted» (rovinò) il pentimento di Gollum in quel momento, vanificando in qualche misura la pietà di Frodo. Il tono accusatorio di Sam risponde a un riflesso reale (diffidenza verso Gollum, lealtà esclusiva a Frodo), ma chiude una porta che non si riaprirà. Tolkien non condanna Sam — lo mostra come persona vera, con un punto cieco.
->
+
 > ### 4. Il Monte Fato
 > Cap. *"Mount Doom"* (*The Return of the King*). Frodo non regge più. Sam lo porta sulle spalle. Testo del libro: «I can't carry it for you, but I can carry you and it as well.» (Nota: la versione più breve spesso citata — "...but I can carry you!" — è la battuta del film 2003; il testo di Tolkien include "and it as well", il peso dell'Anello insieme a Frodo.) La carità si fa forza fisica — eco della critica cattolica che legge la scena come parallelo a Simone di Cireneo che porta la croce con Cristo. Questo parallelo (Sam–Cireneo, non Sam–San Giuseppe) è attestato nella critica tolkieniana cattolica.
->
+
 > ### 5. Il ritorno e la guarigione della Contea
 > Dopo la guerra, Sam sposa Rosie Cotton (1 maggio S.R. 1420), viene eletto Sindaco della Contea per sette mandati consecutivi di sette anni. Con la terra e il seme di mallorn donati da Galadriel ripianta gli alberi abbattuti da Saruman, mettendo un grano della polvere a ogni radice. Il mallorn fiorisce nel Campo della Festa — unico al di fuori di Lothlórien. Sam è il giardiniere della eucatastrofe tolkieniana: la guarigione del mondo avviene nel concreto, albero per albero.
->
+
 > ### Radice autobiografica: i batmen della Grande Guerra
 > Lettera 72 a Christopher Tolkien (31 maggio 1944): «My 'Sam Gamgee' is indeed a reflexion of the English soldier, of the privates and batmen I knew in the 1914 war, and recognized as so far superior to myself.» Gli attendenti (*batmen*) erano soldati semplici assegnati agli ufficiali come servitori personali — curavano le uniformi, portavano i pasti, stavano accanto all'ufficiale in condizioni estreme. Tolkien li conobbe al fronte della Somme (1916) e li giudicò superiori a sé stesso: questa ammirazione è il nucleo emotivo di Sam. Il rapporto Sam–Frodo ricalca quello attendente–ufficiale; la Contea è la casa che nessuno dei due potrà dimenticare.
 
@@ -86,7 +78,7 @@ Alla fine, Sam è l'unico che porta a casa il frutto visibile della missione: Ro
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > - **"Chief hero"**: citazione verificata da Lettera 131 (Wikipedia/Tolkien Gateway); il testo esatto è «I think the simple 'rustic' love of Sam and his Rosie ... is absolutely essential to the study of his (the chief hero's) character.»
 > - **Lettera 72 (batmen)**: verificata su Wikipedia e John Garth; testo esatto come citato sopra.
 > - **"Momento più tragico"** (Lettera 246): verificato su CBR e Tolkien Gateway; Tolkien descrive anche Sam come «cocksure, and deep down a little conceited».
@@ -109,8 +101,8 @@ Alla fine, Sam è l'unico che porta a casa il frutto visibile della missione: Ro
 
 ## 🪢 Note Correlate
 
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
-- [[Tolkien - Sofferenza e Provvidenza]]
-- [[Tolkien - Galadriel e il Magnificat]]
-- [[Enciclica Magnifica Humanitas e Tolkien]]
-- [[Tolkien - Aragorn, Re Guaritore e Leadership Serva]]
+- Tolkien - Il Signore degli Anelli come opera cattolica
+- Tolkien - Sofferenza e Provvidenza
+- Tolkien - Galadriel e il Magnificat
+- Enciclica Magnifica Humanitas e Tolkien
+- Tolkien - Aragorn, Re Guaritore e Leadership Serva

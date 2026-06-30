@@ -1,16 +1,8 @@
----
-tags: [armi-autonome, guerra, etica, diritto-internazionale, intelligenza-artificiale]
-type: conoscenza
-created: 2026-06-07
-updated: 2026-06-20
-source: https://www.icrc.org/en/document/joint-call-un-and-icrc-establish-prohibitions-and-restrictions-autonomous-weapons-systems
----
-
 # IA e guerra autonoma — quando la vita diventa un calcolo
 
 > **In breve:** I sistemi d'arma autonomi (LAWS) delegano la decisione di uccidere a un algoritmo. Non si tratta di fantascienza: succede già, in gradazioni. Il caso più documentato è il sistema israeliano *Lavender* a Gaza (2024). L'ONU e il CICR chiedono un trattato vincolante entro il 2026, ma il negoziato è bloccato dalla regola del consenso nella CCW. La domanda non è "robot killer sì o no", è **quanta autonomia è tollerabile prima che la responsabilità svanisca del tutto**.
 
-> [!quote] 🎯 **«Human control must be retained in life and death decisions. The autonomous targeting of humans by machines is a moral line that we must not cross.»**
+> 🎯 **«Human control must be retained in life and death decisions. The autonomous targeting of humans by machines is a moral line that we must not cross.»**
 > — Antonio Guterres (ONU) e Mirjana Spoljaric (CICR), appello congiunto, 5 ottobre 2023
 
 ---
@@ -55,7 +47,7 @@ Il punto non è la perfezione tecnica. Una macchina più precisa non risolve il 
 
 ---
 
-> [!note]- Approfondimento: casi reali, tassonomia, negoziato, posizioni geopolitiche
+> Approfondimento: casi reali, tassonomia, negoziato, posizioni geopolitiche
 
 > ### Lavender e Gospel a Gaza (2024)
 > L'inchiesta di +972 Magazine (aprile 2024, firma Yuval Abraham, fonti: 6 ufficiali di intelligence IDF) descrive due sistemi distinti:
@@ -112,14 +104,14 @@ Il punto non è la perfezione tecnica. Una macchina più precisa non risolve il 
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > **Enciclica *Magnifica humanitas* (par. 198):** la citazione «Non esiste algoritmo che possa rendere la guerra moralmente accettabile» è riportata dalla nota correlata sull'enciclica, che la marca essa stessa con un avviso di verificabilità: il testo non è confermabile su fonti pubbliche (vatican.va / Vatican News) in modo indipendente. In questa nota la posizione magisteriale è citata come *orientamento della riflessione*, non come fatto accertato. I dati sul negoziato ONU, i casi Gaza e Ucraina, e le risoluzioni UNGA sono invece documentati da fonti primarie verificabili.
 
 ---
 
 ## 🪢 Note Correlate
 
-- [[Enciclica Magnifica humanitas - Papa Leone XIV e l'IA]]
-- [[Papa Francesco e l'algoretica]]
-- [[Transumanesimo e critica cristiana del postumano]]
-- [[IA e Democrazia - Blueprint MIT Technology Review]]
+- Enciclica Magnifica humanitas - Papa Leone XIV e l'IA
+- Papa Francesco e l'algoretica
+- Transumanesimo e critica cristiana del postumano
+- IA e Democrazia - Blueprint MIT Technology Review

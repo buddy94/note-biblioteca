@@ -1,16 +1,8 @@
----
-tags: [filosofia, identità, paradosso, teologia, biotecnologia, metafisica]
-type: conoscenza
-created: 2026-06-13
-updated: 2026-06-20
-source: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Theseus*.html
----
-
 # Il Paradosso della Nave di Teseo
 
 > **In breve:** Se sostituisci pezzo per pezzo tutte le parti di una nave, è ancora la stessa nave? Questo esperimento mentale — riportato da **Plutarco** (*Vita di Teseo*, cap. 23) — è il banco di prova classico per la **metafisica dell'identità nel tempo**: si applica a oggetti, istituzioni, corpi viventi, persone e perfino a ciò che potremmo essere dopo la morte.
 
-> [!quote] 🎯 **Frase chiave:** «Su coloro che entrano negli stessi fiumi scorrono acque sempre diverse.» — Eraclito, fr. B12 (Diels-Kranz)
+> 🎯 **Frase chiave:** «Su coloro che entrano negli stessi fiumi scorrono acque sempre diverse.» — Eraclito, fr. B12 (Diels-Kranz)
 > *Il fiume rimane pur cambiando l'acqua: la permanenza nell'identità non esclude il cambiamento della materia. È questa la tensione al cuore del paradosso.*
 
 ---
@@ -57,66 +49,66 @@ Il paradosso non è un gioco accademico: è la struttura profonda di molte doman
 
 ---
 
-> [!note]- 📖 Approfondimento — Filosofia, Biologia, Teologia, Biotecnologia, Esempi pop
->
+> 📖 Approfondimento — Filosofia, Biologia, Teologia, Biotecnologia, Esempi pop
+
 > ### Eraclito: l'antecedente classico (con attribuzione corretta)
->
+
 > Il frammento autentico di Eraclito (B12, Diels-Kranz) dice: «Su coloro che entrano negli stessi fiumi scorrono acque sempre diverse.» Il senso è il contrario di ciò che si cita comunemente: il fiume **rimane** pur cambiando l'acqua. La continuità nell'identità coesiste col cambiamento della materia.
->
+
 > La formula popolare «non ci si può bagnare due volte nello stesso fiume» è la **radicalizzazione** che Platone attribuisce a Eraclito nel *Cratilo* (402a), probabilmente influenzata da Cratilo, allievo di Eraclito con posizioni ancora più estreme. Citare «Eraclito» per la versione radicale è impreciso: il filosofo sosteneva la permanenza del *logos* nel cambiamento, non il flusso totale.
->
+
 > ### Endurantismo e perdurantismo
->
+
 > Il dibattito metafisico standard sulla persistenza degli oggetti nel tempo:
->
+
 > - **Endurantismo (3-dimensionalismo):** un oggetto è *interamente presente* in ogni istante; le sue proprietà cambiano nel tempo ma l'oggetto è numericamente lo stesso. Problema: come può la stessa cosa avere proprietà incompatibili in tempi diversi?
 > - **Perdurantismo / 4-dimensionalismo:** un oggetto persiste avendo *parti temporali* (time-slices); è un «verme» esteso nello spazio-tempo. Il cambiamento delle parti non tocca l'identità del tutto, perché i diversi «stadi» sono parti diverse dello stesso oggetto quadridimensionale.
 > - **Stage theory (Sider, Hawley):** variante più radicale — gli oggetti ordinari sono solo *stadi temporali*; l'identità attraverso il tempo è una relazione tra stadi, non la persistenza di un singolo oggetto.
->
+
 > Nessuna delle tre posizioni è priva di costo teorico. La SEP (*Identity Over Time*) e l'IEP (*Persistence in Time*) offrono la mappa completa del dibattito.
->
+
 > ### Locke e Parfit sull'identità personale
->
+
 > John Locke (*Essay Concerning Human Understanding*, 1689) separò nettamente identità *di sostanza* (stessa materia o stessa anima-sostanza) da identità *di persona*: quest'ultima è fondata sulla **continuità di coscienza e memoria**. Un uomo che non ricorda il passato è la stessa sostanza ma non la stessa persona.
->
+
 > Derek Parfit (*Reasons and Persons*, 1984) ha portato la posizione alle sue conseguenze estreme col caso del teletrasporto: se sei smaterializzato e rimaterializzato identicamente su Marte, sei la stessa persona? E se ne vengono create due copie? Parfit conclude che **l'identità personale non è ciò che conta nella sopravvivenza**: ciò che conta è la *Relazione R* — continuità e connessione psicologica — che può sussistere per gradi e ammettere ramificazioni. L'identità è tutto-o-niente; la Relazione R no.
->
+
 > Questo è il ponte naturale verso la biotecnologia: se l'organismo viene riprogrammato epigeneticamente, la Relazione R persiste (stessi ricordi, stessa continuità psicologica) anche se la «materia biologica» è stata modificata in profondità.
->
+
 > ### Tommaso d'Aquino e la resurrezione
->
+
 > Nella *Summa Theologiae* (Supplementum, qq. 79-80) Tommaso affronta direttamente il problema: il corpo risorto deve essere *numericamente lo stesso* di quello sepolto, altrimenti non è vera resurrezione. La soluzione è la dottrina dell'anima come **forma sostanziale**: l'anima non è solo l'«abitante» del corpo ma il principio che lo informa e organizza. Finché l'anima persiste, l'identità del corpo risorto è garantita anche se la materia è completamente cambiata.
->
+
 > Il dibattito moderno (van Inwagen, *The Possibility of Resurrection*, 1978; Swinburne) discute se la forma-sostanziale basti a garantire la stessa identità *numerica* o solo quella *qualitativa*. È una disputa ancora aperta tra filosofi della religione.
->
+
 > ### Biologia: il rinnovo selettivo del corpo
->
+
 > I dati verificati (fonti PMC e Live Science):
 > - Globuli rossi: vita media ~115-120 giorni.
 > - Scheletro: rimodellamento continuo, completo in ~10 anni; gli osteoclasti si rinnovano ogni ~2 settimane.
 > - **Eccezioni chiave** (il punto filosoficamente forte): neuroni della corteccia cerebrale → vecchi quanto la persona (studi al C-14); fibre del cristallino dell'occhio → nessun turnover per l'intera vita; cardiomiociti → solo ~40% scambiati nell'arco della vita intera (<1%/anno).
->
+
 > Conclusione: l'affermazione divulgativa «il corpo si rinnova completamente» è imprecisa. Il nucleo dell'identità materiale — cervello, cuore, cristallino — è in larga parte **originale**. Proprio dove risiede la coscienza, i ricordi, la «forma» della persona.
->
+
 > ### Riprogrammazione epigenetica (risultati verificati su modelli animali)
->
+
 > Lu et al. (*Nature*, 2020, lab Sinclair — Harvard): il cocktail **OSK** (Oct4, Sox2, Klf4 — tre dei quattro fattori di Yamanaka; c-Myc escluso perché oncogenico) ha ripristinato la vista in topi con glaucoma, rigenerando gli assoni del nervo ottico tramite demetilazione del DNA (enzimi TET1/TET2). Nel 2023 (ARVO, New Orleans) dati preliminari su primati non umani.
->
+
 > Importante: si tratta di risultati **sperimentali su modelli animali**, non di terapia umana validata. Il salto all'«inversione dell'invecchiamento dell'intero organismo umano» è ancora speculazione. La nota filosofica resta: qui non si sostituiscono le assi, si **rejuvenano** — è una forma del paradosso non contemplata da Plutarco né da Hobbes.
->
+
 > ### Esempi pop che rendono il paradosso concreto
->
+
 > - **La scopa di Trigger** (*Only Fools and Horses*, ep. «Heroes and Villains», 1996): il personaggio riceve una medaglia per aver usato «la stessa scopa» per 20 anni e rivela che ha avuto «17 teste nuove e 14 manici nuovi». Ormai sinonimo del paradosso in inglese: *Trigger's broom*.
 > - **L'ascia di George Washington** (idioma angloamericano): «quest'ascia appartiene a George Washington — ha avuto tre teste nuove e due manichi nuovi».
 > - Band rock con tutti i membri cambiati, aziende centenarie, franchigie sportive: la continuità dell'*identità istituzionale* (nome, storia, tifosi) sopravvive alla sostituzione totale dei membri.
->
+
 > ### Aggancio AI e identità digitale (speculazione)
->
-> Un modello linguistico fine-tunato in continuazione — i cui pesi cambiano ad ogni aggiornamento — è ancora lo stesso modello? Un'identità digitale «caricata» è davvero la stessa persona, o una copia con pretesa di continuità? È la struttura del teletrasporto di Parfit applicata all'informazione. Questa riflessione è **speculazione filosofica**, non fatto: da presentare come tale, ma legittima e feconda, soprattutto se collegata al [[Transumanesimo e critica cristiana del postumano]].
+
+> Un modello linguistico fine-tunato in continuazione — i cui pesi cambiano ad ogni aggiornamento — è ancora lo stesso modello? Un'identità digitale «caricata» è davvero la stessa persona, o una copia con pretesa di continuità? È la struttura del teletrasporto di Parfit applicata all'informazione. Questa riflessione è **speculazione filosofica**, non fatto: da presentare come tale, ma legittima e feconda, soprattutto se collegata al Transumanesimo e critica cristiana del postumano.
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > - Le cifre biologiche sul turnover cellulare (globuli rossi, scheletro) sono solide; l'eccezione dei neuroni corticali e del cristallino è verificata da studi al C-14 (PMC4384533). L'affermazione «quasi tutti gli atomi del corpo si sono rinnovati» è una semplificazione divulgativa imprecisa: **non usarla come fatto preciso**.
 > - I risultati di Sinclair/Lu et al. (*Nature* 2020) sui topi sono reali; i dati 2023 sui primati non umani provengono da una conferenza (ARVO) e non sono ancora peer-reviewed in forma definitiva. Il salto all'inversione dell'invecchiamento nell'uomo è ancora **speculazione**.
 > - La posizione di van Inwagen sulla resurrezione (*The Possibility of Resurrection*, 1978) è reale come dibattito, ma non è stato possibile verificare la formulazione esatta del testo per citarlo letteralmente.
@@ -149,8 +141,8 @@ Il paradosso non è un gioco accademico: è la struttura profonda di molte doman
 
 ## 🪢 Note Correlate
 
-- [[Transumanesimo e critica cristiana del postumano]]
-- [[L'Architettura dell'Incontro]]
-- [[GenZ, Fede e Tradizione]]
-- [[L'Effetto Dunning-Kruger]]
-- [[Mappe Cuore e Percorso]]
+- Transumanesimo e critica cristiana del postumano
+- L'Architettura dell'Incontro
+- GenZ, Fede e Tradizione
+- L'Effetto Dunning-Kruger
+- Mappe Cuore e Percorso

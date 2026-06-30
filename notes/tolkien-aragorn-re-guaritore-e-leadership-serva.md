@@ -1,16 +1,8 @@
----
-tags: [tolkien, aragorn, leadership, fede, regalità, kenosis, servizio, guarigione]
-type: conoscenza
-created: 2026-06-19
-updated: 2026-06-20
-source: https://tolkiengateway.net/wiki/Aragorn
----
-
 # Aragorn — Re Guaritore e Leadership Serva
 
 > **In breve:** Aragorn incarna una regalità che è **servizio, guarigione e rinuncia**, non dominio. Il suo cammino da Strider/Passo Balzo a Re Elessar mostra che la legittimità regale si dimostra con le mani — mani che curano — non con la forza. La lettura cristologica è *applicabilità* fertile, non allegoria voluta dall'autore: Tolkien detestava l'allegoria e preferiva la libertà del lettore.
 
-> [!quote] 🎯 **«The hands of the king are the hands of a healer, and so shall the rightful king be known.»** — Ioreth, detto tradizionale di Gondor (*Il Ritorno del Re*, Libro V, cap. 8)
+> 🎯 **«The hands of the king are the hands of a healer, and so shall the rightful king be known.»** — Ioreth, detto tradizionale di Gondor (*Il Ritorno del Re*, Libro V, cap. 8)
 
 ## ⚡ Punti chiave
 
@@ -43,7 +35,7 @@ La morte volontaria di Aragorn tocca qualcosa di diverso: l'idea che anche il po
 
 ---
 
-> [!note]- Approfondimento — Temi in dettaglio
+> Approfondimento — Temi in dettaglio
 
 > ### Il detto di Ioreth: come funziona la scena
 > Ioreth non sta guardando Aragorn: sta guardando il Faramir malato e si lamenta che non ci sia un re a curarlo, recitando il vecchio detto di Gondor («*Thus spake Ioreth, wise-woman of Gondor*»). Gandalf la ode e capisce. La frase è dunque un detto tradizionale — quasi una profezia popolare — che si avvera in scena, non una proclamazione diretta su Aragorn presente. La differenza è sottile ma importante: la legittimità non viene *dichiarata* dall'esterno, ma *verificata* dall'azione.
@@ -65,7 +57,7 @@ La morte volontaria di Aragorn tocca qualcosa di diverso: l'idea che anche il po
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > Le Lettere 156 e 212 di Tolkien (ed. Carpenter) sono citate tramite Tolkien Gateway e First Things; il testo verbatim delle singole lettere non è stato verificato direttamente sull'edizione cartacea — chi vuole citarle in contesti accademici dovrebbe controllare l'edizione Carpenter. La pagina catholicshare.com citata in precedenti versioni della nota risulta inaccessibile automaticamente (HTTP 403); è stata sostituita con fonti verificate live.
 
 ## 📖 Dizionario
@@ -90,9 +82,9 @@ La morte volontaria di Aragorn tocca qualcosa di diverso: l'idea che anche il po
 
 ## 🪢 Note Correlate
 
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
-- [[Tolkien - Sofferenza e Provvidenza]]
-- [[Tolkien - Théoden e la speranza che resiste]]
-- [[Tolkien - Galadriel e il Magnificat]]
-- [[Tolkien - Samwise Gamgee e la fedeltà dell'umile]]
-- [[Tolkien - Biografia spirituale e fede cattolica]]
+- Tolkien - Il Signore degli Anelli come opera cattolica
+- Tolkien - Sofferenza e Provvidenza
+- Tolkien - Théoden e la speranza che resiste
+- Tolkien - Galadriel e il Magnificat
+- Tolkien - Samwise Gamgee e la fedeltà dell'umile
+- Tolkien - Biografia spirituale e fede cattolica

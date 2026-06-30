@@ -1,22 +1,8 @@
----
-tags:
-  - genitorialità
-  - disciplina
-  - educazione
-  - psicologia-infantile
-  - sviluppo-emotivo
-  - coerenza-genitoriale
-type: conoscenza
-created: 2026-05-12
-updated: 2026-06-20
-source: https://pubmed.ncbi.nlm.nih.gov/27055181/
----
-
 # Minacce Condizionali e Coerenza Genitoriale
 
 > **In breve:** Le minacce *«Se non fai X, allora Y»* ottengono obbedienza tramite paura, ma non insegnano il *perché* di una regola e devono essere continuamente «alzate». Ancora più destabilizzante è la minaccia vuota: erode la credibilità e priva il bambino dei confini prevedibili di cui ha bisogno per sentirsi sicuro. Le alternative efficaci non eliminano i confini — li rendono coerenti, collegati e sereni.
 
-> [!quote] 🎯 **«Il bambino non impara ciò che gli diciamo, ma ciò che sente mentre glielo diciamo.»** — Daniela Lucangeli (parafrasi del suo pensiero sulla warm cognition; citazione non verificata parola per parola)
+> 🎯 **«Il bambino non impara ciò che gli diciamo, ma ciò che sente mentre glielo diciamo.»** — Daniela Lucangeli (parafrasi del suo pensiero sulla warm cognition; citazione non verificata parola per parola)
 
 ---
 
@@ -63,7 +49,7 @@ Il secondo punto cieco riguarda l'allineamento con l'altro genitore. I figli imp
 
 ---
 
-> [!note]- Approfondimento: teoria, ricerca, strumenti pratici e limiti del gentle parenting
+> Approfondimento: teoria, ricerca, strumenti pratici e limiti del gentle parenting
 
 > ## Il meccanismo della minaccia
 >
@@ -135,10 +121,10 @@ Il secondo punto cieco riguarda l'allineamento con l'altro genitore. I figli imp
 
 ---
 
-> [!warning] Verificabilità
->
+> Verificabilità
+
 > Alcune affermazioni circolano ampiamente in letteratura divulgativa ma hanno basi empiriche meno solide di quanto si presenti:
->
+
 > - **«Cervello rettiliano» / amigdala che «si spegne»:** il modello *triune brain* di MacLean è considerato dalla neuroscienza un mito superato (anni '70). Non esiste una porzione «rettiliana» distinta. L'amigdala fa parte del sistema limbico, non del «cervello rettiliano». Le affermazioni di Siegel/Bryson su questo punto sono semplificazioni divulgative utili ma anatomicamente imprecise.
 > - **Effetti a lungo termine delle minacce verbali** (ansia da prestazione, bassa autostima): sono correlazioni e interpretazioni teoriche, non nessi causali dimostrati. La letteratura più robusta riguarda la punizione fisica (spanking), non le minacce verbali condizionali specificatamente.
 > - **Citazione di Lucangeli** (*«Il bambino non impara ciò che gli diciamo, ma ciò che sente mentre glielo diciamo»*): coerente con il suo pensiero sulla warm cognition, ma non verificata parola per parola contro l'edizione originale del libro.
@@ -173,5 +159,5 @@ Il secondo punto cieco riguarda l'allineamento con l'altro genitore. I figli imp
 
 ## 🪢 Note Correlate
 
-- [[Genitorialità - Competizione tra Fratelli e Autorevolezza]]
-- [[Il ruolo del padre nello sviluppo emotivo]]
+- Genitorialità - Competizione tra Fratelli e Autorevolezza
+- Il ruolo del padre nello sviluppo emotivo

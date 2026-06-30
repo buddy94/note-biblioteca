@@ -1,16 +1,8 @@
----
-tags: [tolkien, chesterton, inklings, fiaba, eucatastrofe, sub-creazione, apologetica, fede-cattolica]
-type: conoscenza
-created: 2026-06-01
-updated: 2026-06-19
-source: https://theimaginativeconservative.org/2015/10/chesterton-casts-a-spell-on-j-r-r-tolkien.html
----
-
 # Tolkien e G.K. Chesterton: Affinità e Influenze
 
 > **In breve:** Chesterton (1874–1936) e Tolkien (1892–1973) non si frequentarono, ma il pensiero chestertoniano permea *On Fairy-Stories*: Tolkien cita Chesterton per nome nel passo cruciale sul **Recupero**, usando il suo termine "Mooreeffoc" per spiegare come la fiaba ridoni freschezza al reale. L'influenza è reale e documentata, ma anche ambivalente — Tolkien, nello stesso paragrafo, ne segnala il limite. A fare da tramite tra i due è C.S. Lewis, convertito in parte grazie a *The Everlasting Man* di Chesterton.
 
-> [!quote] 🎯 **Da ricordare:** «What fairy tales give the child is his first clear idea of the possible defeat of bogey. The baby has known the dragon intimately ever since he had an imagination. What the fairy tale provides for him is a St. George to kill the dragon.» — G.K. Chesterton, *Tremendous Trifles* (1909), saggio "The Red Angel"
+> 🎯 **Da ricordare:** «What fairy tales give the child is his first clear idea of the possible defeat of bogey. The baby has known the dragon intimately ever since he had an imagination. What the fairy tale provides for him is a St. George to kill the dragon.» — G.K. Chesterton, *Tremendous Trifles* (1909), saggio "The Red Angel"
 
 ---
 
@@ -54,7 +46,7 @@ Il canale più chiaro di trasmissione tra i due è **C.S. Lewis**: Chesterton lo
 
 ---
 
-> [!note]- Approfondimento: il Mooreeffoc, l'ambivalenza di Tolkien, e l'ipotesi Clausen
+> Approfondimento: il Mooreeffoc, l'ambivalenza di Tolkien, e l'ipotesi Clausen
 
 > ### Il Mooreeffoc — testo esatto di Tolkien
 > In *On Fairy-Stories*, sezione "Recovery", Tolkien scrive verbatim: «Mooreeffoc is a fantastic word, but it could be seen written up in every town in this land. It is Coffee-room, viewed from the inside through a glass door, as it was seen by Dickens on a dark London day; and it was used by Chesterton to denote the queerness of things that have become trite, when they are seen suddenly from a new angle.»
@@ -76,7 +68,7 @@ Il canale più chiaro di trasmissione tra i due è **C.S. Lewis**: Chesterton lo
 
 ---
 
-> [!warning] Verificabilità
+> Verificabilità
 > - Le citazioni di Chesterton da *Tremendous Trifles* e di Tolkien da *On Fairy-Stories* sono confermate da più fonti secondarie affidabili, ma non verificate sul testo primario integrale. Citarle con la fonte secondaria indicata.
 > - L'influenza di Chesterton su Tolkien (al di là del Mooreeffoc) resta in parte interpretativa: Tolkien non lasciò dichiarazioni sistematiche sul debito verso Chesterton. La critica accademica la deduce per via tematica.
 > - L'ipotesi Clausen su *Ballad of the White Horse* e LOTR è tesi di un singolo studioso, non consenso critico.
@@ -108,6 +100,6 @@ Il canale più chiaro di trasmissione tra i due è **C.S. Lewis**: Chesterton lo
 
 ## 🪢 Note Correlate
 
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
-- [[Tolkien - Biografia spirituale e fede cattolica]]
-- [[Gli Inklings - Fede e Mito]]
+- Tolkien - Il Signore degli Anelli come opera cattolica
+- Tolkien - Biografia spirituale e fede cattolica
+- Gli Inklings - Fede e Mito

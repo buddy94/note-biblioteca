@@ -1,16 +1,8 @@
----
-tags: [tolkien, theoden, speranza, acedia, virtu-teologali, libera-volonta, fede-cattolica]
-type: conoscenza
-created: 2026-06-19
-updated: 2026-06-20
-source: https://tolkiengateway.net/wiki/Th%C3%A9oden
----
-
 # Tolkien — Théoden e la speranza che resiste
 
 > **In breve:** Théoden, Re di Rohan, passa dall'*acedia* — il torpore spirituale instillato dai sussurri di Gríma Vermilinguo — alla speranza come scelta attiva, non sentimento. Gandalf non lo guarisce per magia: gli restituisce la facoltà di scegliere. Il suo arco, culminante nel sacrificio ai Campi del Pelennor, è il contraltare deliberato di Tolkien alla disperazione orgogliosa di Denethor.
 
-> [!quote] 🎯 **Frase chiave:** «Vado dai miei padri, nella cui possente compagnia ora non mi vergognerò.» — Théoden morente a Merry, *Il Ritorno del Re*
+> 🎯 **Frase chiave:** «Vado dai miei padri, nella cui possente compagnia ora non mi vergognerò.» — Théoden morente a Merry, *Il Ritorno del Re*
 > *(testo originale: "I go to my fathers, in whose mighty company I shall not now feel ashamed")*
 
 ## ⚡ Punti chiave
@@ -46,22 +38,22 @@ Il contrasto con Denethor non è incidentale ma strutturale. Tolkien costruisce 
 
 ---
 
-> [!note]- Approfondimento — L'acedia, la guarigione, il dittico con Denethor
->
+> Approfondimento — L'acedia, la guarigione, il dittico con Denethor
+
 > ### L'acedia: radici teologiche
 > Evagrio Pontico (IV sec.), nel *Praktikos*, elenca l'acedia tra gli otto «pensieri malvagi» e la chiama «demone meridiano» (*daemon meridianus*), riprendendo il Salmo 90/91. È il torpore che colpisce nel mezzo del giorno — non la notte oscura dell'anima, ma la pigrizia spirituale che svuota di senso ogni azione nel pieno delle forze. Tommaso d'Aquino (Summa II-II, q. 35) la sistema come *tristitia de bono spirituali/divino*: tristezza verso il bene spirituale, primo peccato contro la gioia della carità. Non semplice malinconia: una cecità del bene che fa credere inutile ogni moto verso di esso. È esattamente lo stato di Théoden sotto i sussurri di Gríma.
->
+
 > ### La guarigione a Meduseld: libro vs film
 > Nel **libro** (*Le Due Torri*, libro III, cap. VI), Gandalf entra a Meduseld con Aragorn, Legolas e Gimli. Confronta Gríma, poi si rivolge a Théoden non con un incantesimo ma con parole: lo invita ad alzarsi, a uscire alla luce, a guardare il mondo. È Éomer — su invito di Gandalf — a portare la spada Herugrim; Théoden la impugna come atto suo. La sequenza è: Gandalf parla → Gríma smascherato → Théoden sceglie di alzarsi → prende la spada. Nessuna magia coercitiva.
->
+
 > Nel **film** di Peter Jackson (*Le Due Torri*, 2002), Théoden è letteralmente posseduto da Saruman («*I withdraw you, Saruman, as poison is drawn from a wound*»). L'esorcismo è visivo e drammatico: Théoden ringiovanisce davanti agli occhi del pubblico. La narrazione visuale è potente, ma inverte il rapporto: nel libro Théoden è agente, nel film paziente. Per la tesi teologica della nota («grazia che assiste, non costringe») la versione-libro è quella che conta.
->
+
 > ### Il dittico Théoden / Denethor
 > Tolkien costruisce una coppia deliberata: due governanti anziani, entrambi vedovi, entrambi in lutto per un figlio (Théodred per Théoden, Boromir per Denethor), entrambi davanti alla stessa crisi militare. Théoden — di stirpe meno illustre, re di un regno minore — sceglie l'umiltà: accetta la guida di Gandalf, monta a cavallo, va in soccorso di Gondor. Denethor — Sovrintendente di stirpe numenoreana, spia più lontano con il palantír — si chiude nella certezza della sconfitta e perisce sul rogo, portandosi Faramir quasi con sé. La tradizione medievale lega disperazione e superbia: disperare presuppone di avere già tutte le informazioni necessarie per sapere che niente può cambiare. È, paradossalmente, una forma di orgoglio. Théoden non ha questa certezza e non la pretende.
->
+
 > ### La morte ai Campi del Pelennor
 > Théoden muore nel Libro V de *Il Ritorno del Re* («La battaglia dei Campi del Pelennor»): il suo cavallo Snowmane cade su di lui, atterrito dalla cavalcatura del Signore dei Nazgûl. Prima di spirare trova Merry e gli dice: «*I go to my fathers, in whose mighty company I shall not now feel ashamed.*» Non trionfo, non rassegnazione: ricongiungimento dignitoso. È Éowyn, sua nipote giunta di nascosto in battaglia travestita da uomo, a uccidere il Signore dei Nazgûl insieme a Merry. La speranza di Théoden si propaga: la sua dignità ritrovata ispira chi lo circonda.
->
+
 > Théoden è il 17° Re di Rohan, ultimo della Seconda Linea. Gli succede Éomer.
 
 ## 📖 Dizionario
@@ -83,14 +75,14 @@ Il contrasto con Denethor non è incidentale ma strutturale. Tolkien costruisce 
 - [Despair and Hope: Denethor and Théoden](https://nathanthepaul.wordpress.com/2019/01/11/despair-and-hope-in-the-lord-of-the-rings-denethor-and-theoden/) — analisi critica del dittico speranza/disperazione costruito da Tolkien.
 - [Why Gandalf Healed Theoden But Not Denethor — CBR](https://www.cbr.com/lotr-gandalf-healed-theoden-left-denethor/) — confronto guarigione libro vs film e la questione della libertà di accettare la guida.
 
-> [!warning] Verificabilità
+> Verificabilità
 > Le citazioni di Théoden («I go to my fathers…» e «Ride to ruin and the world's ending!») sono verificate sul testo inglese originale (Wikiquote / edizione Houghton Mifflin). La **traduzione italiana ufficiale** (Alliata di Villafranca o Fatica) non è stata reperibile a fonte: le rese in italiano qui usate sono parafrasi del redattore, non citazioni dall'edizione ufficiale italiana. Prima di citarle in contesti formali, verificare sull'edizione cartacea posseduta.
 
 ## 🪢 Note Correlate
 
-- [[Tolkien - Il Signore degli Anelli come opera cattolica]]
-- [[Tolkien - Aragorn, Re Guaritore e Leadership Serva]]
-- [[Tolkien - Sofferenza e Provvidenza]]
-- [[Tolkien - Galadriel e il Magnificat]]
-- [[Tolkien - Samwise Gamgee e la fedeltà dell'umile]]
-- [[Enciclica Magnifica Humanitas e Tolkien]]
+- Tolkien - Il Signore degli Anelli come opera cattolica
+- Tolkien - Aragorn, Re Guaritore e Leadership Serva
+- Tolkien - Sofferenza e Provvidenza
+- Tolkien - Galadriel e il Magnificat
+- Tolkien - Samwise Gamgee e la fedeltà dell'umile
+- Enciclica Magnifica Humanitas e Tolkien
