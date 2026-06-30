@@ -73,6 +73,14 @@ body {
   padding: 4px 12px;
   border-radius: 20px;
   font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s;
+  border: 1px solid transparent;
+}
+.topbar .cat-badge:hover {
+  filter: brightness(1.2);
+  border-color: currentColor;
 }
 .topbar .topbar-btn {
   padding: 8px 14px;
@@ -229,7 +237,7 @@ body {
 <nav class="topbar" id="topbar">
   <a href="index.html" class="back-btn">← Biblioteca</a>
   <span class="note-title" id="note-title">Caricamento...</span>
-  <span class="cat-badge" id="cat-badge" style="display:none"></span>
+  <a class="cat-badge" id="cat-badge" style="display:none" href="index.html" title="Vedi tutte le note di questa categoria"></a>
   <button class="topbar-btn fav-btn" id="fav-btn" onclick="toggleFav()" title="Aggiungi/Rimuovi preferito">⭐</button>
   <button class="topbar-btn" onclick="window.print()" title="Stampa / Salva come PDF">🖨️ PDF</button>
 </nav>
@@ -292,7 +300,8 @@ async function loadSingleNote(filename, autoPrint) {
     badge.style.display = 'inline-block';
     badge.style.background = `color-mix(in srgb, ${cat.color} 15%, transparent)`;
     badge.style.color = cat.color;
-    badge.textContent = cat.icon + ' ' + cat.category_name;
+    badge.textContent = cat.icon + ' ' + cat.name;
+    badge.href = `index.html?category=${encodeURIComponent(note.category)}`;
   }
   
   // Favorite button

@@ -29,6 +29,8 @@ body {
   min-height: 100vh;
   display: flex;
   line-height: 1.6;
+  /* Prevent pull-to-refresh from interfering with swipe */
+  overscroll-behavior: contain;
 }
 
 /* ===== SIDEBAR ===== */
@@ -85,6 +87,8 @@ body {
   font-size: 0.9rem;
   position: relative;
   margin-bottom: 2px;
+  user-select: none;
+  -webkit-user-select: none;
 }
 .category-item:hover { background: var(--bg-hover); }
 .category-item.active { background: var(--accent-glow); }
@@ -130,7 +134,7 @@ body {
   gap: 8px;
   padding: 7px 10px;
   border-radius: 6px;
-  cursor: grab;
+  cursor: pointer;
   transition: all var(--transition);
   font-size: 0.85rem;
   background: var(--bg);
@@ -325,6 +329,23 @@ body {
 }
 .overlay.show { display: block; }
 
+/* ===== SWIPE INDICATOR ===== */
+.swipe-indicator {
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 60px;
+  background: var(--border);
+  border-radius: 0 6px 6px 0;
+  z-index: 90;
+  transition: opacity 0.3s;
+  opacity: 0;
+}
+.swipe-indicator.visible { opacity: 1; }
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
   .sidebar {
@@ -333,6 +354,7 @@ body {
   .sidebar.open { transform: translateX(0); }
   .main { margin-left: 0; padding: 16px; }
   .mobile-toggle { display: block; }
+  .swipe-indicator { display: block; }
   .notes-grid { grid-template-columns: 1fr; }
 }
 
@@ -347,6 +369,9 @@ body {
 </style>
 </head>
 <body>
+
+<!-- Swipe indicator (mobile only) -->
+<div class="swipe-indicator" id="swipe-indicator"></div>
 
 <!-- Mobile Toggle -->
 <button class="mobile-toggle" onclick="toggleSidebar()" aria-label="Menu">☰</button>
@@ -382,7 +407,7 @@ body {
 </aside>
 
 <!-- ===== MAIN ===== -->
-<main class="main">
+<main class="main" id="main-content">
   <div class="toolbar">
     <div class="search-box">
       <span class="search-icon">🔍</span>
@@ -420,6 +445,14 @@ async function init() {
   }
   buildCategories();
   renderFavorites();
+  
+  // Check URL params for category filter (from note.html category click)
+  const params = new URLSearchParams(window.location.search);
+  const urlCategory = params.get('category');
+  if (urlCategory && manifest.categories[urlCategory]) {
+    currentCategory = urlCategory;
+  }
+  
   renderNotes();
 }
 
@@ -460,7 +493,10 @@ function renderNotes() {
   // Filter by search
   if (searchQuery) {
     const q = searchQuery.toLowerCase();
-    notes = notes.filter(n => n.title.toLowerCase().includes(q) || n.category_name.toLowerCase().includes(q));
+    notes = notes.filter(n => 
+      n.title.toLowerCase().includes(q) || 
+      (n.category_name || '').toLowerCase().includes(q)
+    );
   }
   
   // Update header
@@ -500,7 +536,22 @@ function filterByCategory(cat) {
   document.querySelectorAll('.category-item').forEach(el => el.classList.remove('active'));
   const activeEl = document.querySelector(`.category-item[data-category="${cat}"]`) || document.querySelector('.category-item.all-notes');
   if (activeEl) activeEl.classList.add('active');
+  
+  // Update URL without reload
+  const url = new URL(window.location);
+  if (cat === 'all') {
+    url.searchParams.delete('category');
+  } else {
+    url.searchParams.set('category', cat);
+  }
+  window.history.replaceState({}, '', url);
+  
   renderNotes();
+  
+  // Close sidebar on mobile after selecting a category
+  if (window.innerWidth <= 768) {
+    closeSidebar();
+  }
 }
 
 function filterNotes() {
@@ -557,7 +608,13 @@ function renderFavorites() {
     div.draggable = true;
     div.dataset.index = index;
     div.dataset.filename = filename;
-    div.onclick = () => openNote(filename);
+    div.onclick = () => {
+      openNote(filename);
+      // Close sidebar on mobile after clicking a favorite
+      if (window.innerWidth <= 768) {
+        closeSidebar();
+      }
+    };
     
     div.addEventListener('dragstart', handleDragStart);
     div.addEventListener('dragend', handleDragEnd);
@@ -653,7 +710,7 @@ function exportAllPDF() {
 function toggleSidebar() {
   const sidebar = document.getElementById('sidebar');
   const overlay = document.getElementById('overlay');
-  sidebar.classList.toggle('open');
+  const isOpen = sidebar.classList.toggle('open');
   overlay.classList.toggle('show');
 }
 
@@ -661,6 +718,52 @@ function closeSidebar() {
   document.getElementById('sidebar').classList.remove('open');
   document.getElementById('overlay').classList.remove('show');
 }
+
+/* ===== SWIPE TO OPEN DRAWER (MOBILE) ===== */
+(function setupSwipeGesture() {
+  const SWIPE_THRESHOLD = 60; // px from left edge
+  const SWIPE_DISTANCE = 80;  // min px to trigger open
+  let touchStartX = 0;
+  let touchStartY = 0;
+  let swipeActive = false;
+  const main = document.getElementById('main-content');
+  const indicator = document.getElementById('swipe-indicator');
+
+  function isMobile() {
+    return window.innerWidth <= 768;
+  }
+
+  main.addEventListener('touchstart', function(e) {
+    if (!isMobile()) return;
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+    swipeActive = touchStartX < SWIPE_THRESHOLD;
+    if (swipeActive) {
+      indicator.classList.add('visible');
+    }
+  }, { passive: true });
+
+  main.addEventListener('touchmove', function(e) {
+    if (!swipeActive || !isMobile()) return;
+    const dx = e.touches[0].clientX - touchStartX;
+    if (dx > 20) {
+      indicator.classList.remove('visible');
+    }
+  }, { passive: true });
+
+  main.addEventListener('touchend', function(e) {
+    if (!isMobile()) return;
+    indicator.classList.remove('visible');
+    if (!swipeActive) return;
+    swipeActive = false;
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    const dy = Math.abs(e.changedTouches[0].clientY - touchStartY);
+    // Require horizontal swipe (dx > dy) and enough distance
+    if (dx > SWIPE_DISTANCE && dx > dy) {
+      toggleSidebar();
+    }
+  });
+})();
 
 /* ===== KEYBOARD ===== */
 document.addEventListener('keydown', (e) => {
