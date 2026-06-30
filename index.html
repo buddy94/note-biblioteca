@@ -512,9 +512,7 @@ function filterNotes() {
 function openNote(filename, event) {
   // Don't open if clicking fav button
   if (event && event.target.closest('.note-actions')) return;
-  // Link to GitHub-converted HTML page (without .md extension)
-  const slug = filename.replace('.md', '');
-  window.open('notes/' + slug, '_self');
+  window.location.href = `note.html?note=${encodeURIComponent(filename)}`;
 }
 
 /* ===== FAVORITES ===== */
